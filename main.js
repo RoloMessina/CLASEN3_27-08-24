@@ -5,3 +5,7 @@ function saludo(nombre, mensaje) {
  function saludoDespedida(nombre, mensaje) {
     console.log(mensaje + ", " + nombre + "!");
     }
+    
+function saludoDespedida(nombre, mensaje) {
+   console.log(mensaje + ", " + nombre + "!");
+   }
